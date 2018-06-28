@@ -291,6 +291,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
+Some streams will use virtual machines to deliver the workshop. If you are in one of these streams, these setup instructions will not be necessary to participate, and all that you will need is a web browser to connect to the virtual machine and runs its software. However, we recommend you follow the setup instructions for your operating system as set our below anyway, as that way, you will have a copy of the software to continue using after the workshop.
+</p>
+<p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
